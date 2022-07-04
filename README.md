@@ -39,8 +39,9 @@ int main(){
 ```
 
 **math**
+
 $$
-f(x)=\lim_{\Delta t \to \infty}\frac{g(x+\Delta t)-g(x)}{\Delta t}
+f(x)=\frac{g(x+\Delta t)-g(x)}{\Delta t}
 $$
 
 ### Support or Contact
