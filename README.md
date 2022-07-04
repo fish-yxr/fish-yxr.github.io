@@ -32,7 +32,7 @@ with
 
 **document**
 
-[txt](1.txt)
+[pic](square.png)
 
 **code**
 
