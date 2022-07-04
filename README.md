@@ -24,15 +24,17 @@ with
 
 **picture**
 
-![pic](defence1.png)
+![pic](pic/defence1.png)
 
-![pic](defence2.png)
+![pic](pic/defence2.png)
 
-![pic](square.png)
+![pic](pic/square.png)
 
 **document**
 
 [pic](square.png)
+
+[The Future Status of English as the Global Language is Assured](another.md)
 
 **code**
 
