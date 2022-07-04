@@ -23,9 +23,14 @@ with
 [link](1234567890)
 
 **picture**
+
 ![pic](1.png)
+![pic](2.png)
+![pic](3.png)
 
 **document**
+
+[txt](1.txt)
 
 **code**
 
