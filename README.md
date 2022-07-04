@@ -28,7 +28,7 @@ with
 
 ![pic](defence2.png)
 
-![pic](squere.png)
+![pic](square.png)
 
 **document**
 
