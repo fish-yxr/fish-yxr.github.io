@@ -12,18 +12,18 @@ with
 
 **web link**
 
-[github](github.com)
+[github](https://github.com)
 
-[youtube](youtube.com)
+[youtube](https://youtube.com)
 
-[bilibili](bilibili.com)
+[bilibili](https://bilibili.com)
 
 **failed link**
 
-[link](https://1234567890)
+[link](1234567890)
 
 **picture**
-![pic]()
+![pic](1.png)
 
 **document**
 
