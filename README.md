@@ -1,36 +1,47 @@
-## Welcome to GitHub Pages
+## Welcome to THIS Pages
 
 You can use the [editor on GitHub](https://github.com/fish-yxr/fish-yxr.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## this is a title
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+And this is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. 
 
-```markdown
-Syntax highlighted code block
+with
 
-# Header 1
-## Header 2
-### Header 3
+**web link**
 
-- Bulleted
-- List
+[github](github.com)
 
-1. Numbered
-2. List
+[youtube](youtube.com)
 
-**Bold** and _Italic_ and `Code` text
+[bilibili](bilibili.com)
 
-[Link](url) and ![Image](src)
+**failed link**
+
+[link](https://1234567890)
+
+**picture**
+![pic]()
+
+**document**
+
+**code**
+
+```c++
+#include <iostream>
+using namespace std;
+int main(){
+    cout<<"hello world"<<endl;
+    return 0;
+}
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fish-yxr/fish-yxr.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**math**
+$$
+f(x)=\lim_{\Delta t \to \infty}\frac{g(x+\Delta t)-g(x)}{\Delta t}
+$$
 
 ### Support or Contact
 
